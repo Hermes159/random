@@ -8,7 +8,7 @@ import discord
 
 BOT_TOKEN = "########################################################################################"
 CHANNEL_ID = ###################
-             ###################
+             
 
 bot = commands.Bot(command_prefix="&", intents=discord.Intents.all())
 
