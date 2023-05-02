@@ -12,9 +12,9 @@ from discord import app_commands
 
 
 
-BOT_TOKEN = "MTA5NDI5MzY1NDI3OTA0MTEzNg.G3HBqn.toJbD3PrZ9gYP3QWS4XS7RGupxkKX4nI49gMRc"
-CHANNEL_ID = 1094294281830801500
-
+BOT_TOKEN = "########################################################################"
+CHANNEL_ID = ###################
+             
 
 bot = commands.Bot(command_prefix="&", intents=discord.Intents.all())
 
