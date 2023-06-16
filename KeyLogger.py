@@ -1,5 +1,4 @@
 from pynput.keyboard import Listener as ltnr
-#from time import sleep as ts
 
 
 def main():
@@ -35,13 +34,6 @@ def main():
                print("Oh that's a shame.")
                 
         
-
-                
-#def tm_file():
-        #tmm = int(input("Please enter how many minutes do you want the keylogger to stay on?: ")) + 1
-        #for i in range(1,tmm):
-                #ts(1)
-
 
 
 if __name__ == "__main__":
